@@ -1160,7 +1160,7 @@ def pilih_super():
 
 	p.map(main, id)
 
-	print "\033[1;97m----------------\033[1;95 IDZ NOT OPEN JUST NOW HE DEPEND ON YOUR LUCK \033[1;97m-
+	print "\033[1;97m----------------
 
 	print "  \033[1;93m-------Creadit to me [LALA]--------" #LALASHERRY
 
